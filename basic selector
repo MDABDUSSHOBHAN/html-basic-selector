@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Selector of HTML</title>
+    <style>
+    #p{
+        color: rgb(45, 223, 13);
+        background-color: red;
+        height: 100px;
+        width: 50%;
+        text-align: center;
+        font-size: medium;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+       border-style: dashed;
+    }
+
+     </style>
+</head>
+<body>
+    <h1> This is abdus shobhan</h1>
+    <h2> This is heading two</h2>
+    <div> This is div class with some special case</div>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit?</p>
+    <p id="p">I am a student of computer science and technology at THPI</p>
+    <p> This is a histrocal place</p>
+    <ol type="none">
+        <li>BD Critket Time
+            <ol>
+                <li>Sakib Al Hassan</li>
+                <li>Mostafizur Rahman</li>
+                <li>Liton Das</li>
+            </ol>
+        </li>
+        
+    </ol>
+</body>
+</html>
